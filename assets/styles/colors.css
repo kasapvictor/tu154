@@ -1,0 +1,9 @@
+:root {
+    --main: #333;
+    --warning: #f44336;
+    --success: #4caf50;
+    --info: #ff9800;
+    --normal: #3898ec;
+    --disable: #999;
+    --mute: #dadada;
+}
